@@ -162,7 +162,7 @@
 | বন্ধ করা | Close | Closed | Closed | kləʊz | kləʊzd | kləʊzd |
 | আসা | Come | Came | Come | kʌm | keɪm | kʌm |
 | রান্না করা | Cook | Cooked | Cooked | kʊk | kʊkt | kʊkt |
-Copied | কপি করা | Copy | Copied | | ˈkɒpi | ˈkɒpid | ˈkɒpid |
+| কপি করাCopied  | Copy | Copied | | ˈkɒpi | ˈkɒpid | ˈkɒpid |
 | কাঁদা | Cry | Cried | Cried | kraɪ | kraɪd | kraɪd |
 | কাটা | Cut | Cut | Cut | kʌt | kʌt | kʌt |
 | সিদ্ধান্ত নেওয়া | Decide | Decided | Decided | dɪˈsaɪd | dɪˈsaɪdɪd | dɪˈsaɪdɪd |
@@ -174,8 +174,6 @@ Copied | কপি করা | Copy | Copied | | ˈkɒpi | ˈkɒpid | ˈkɒpid |
 | করা | Do | Did | Done | duː | dɪd | dʌn |
 | অঙ্কন করা | Draw | Drew | Drawn | drɔː | druː | drɔːn |
 | পান করা | Drink | Drank | Drunk | drɪŋk | dræŋk | drʌŋk |
-
-
 | ড্রাইভ করা | Drive | Drove | Driven | draɪv | droʊv | ˈdrɪvən |
 | খাওয়া | Eat | Ate | Eaten | iːt | eɪt | ˈiːtn |
 | প্রত্যাশা করা | Expect | Expected | Expected | ɪkˈspɛkt | ɪkˈspɛktɪd | ɪkˈspɛktɪd |
